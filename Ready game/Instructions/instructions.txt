@@ -1,0 +1,12 @@
+Level objective:
+To connect all the wires in the way that 
+doesn't leave any hanging ones.
+
+Later in the game you get introduced to 
+dead-end wires - you must connect 
+only squared side of it.
+
+
+Basic mechanics:
+To clicking on the wire it turn 90 degrees 
+counter clockwise.
